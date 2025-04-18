@@ -14,4 +14,4 @@
 | Shapr3D | [https://testflight.apple.com/join/Dm6lqUW7](https://testflight.apple.com/join/Dm6lqUW7) | N | 2024-07-12 |
 | UTM Virtual Machines | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) | N | 2025-01-03 |
 | WhatsApp Messenger | [https://testflight.apple.com/join/krUFQpyJ](https://testflight.apple.com/join/krUFQpyJ) | F | 2023-03-10 |
-| Windows App | [https://testflight.apple.com/join/YqNaYeyS](https://testflight.apple.com/join/YqNaYeyS) | N | 2024-11-12 |
+| Windows App | [https://testflight.apple.com/join/YqNaYeyS](https://testflight.apple.com/join/YqNaYeyS) | D | 2025-04-18 |
