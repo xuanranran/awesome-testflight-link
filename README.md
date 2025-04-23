@@ -349,7 +349,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Microsoft Defender: Security | [https://testflight.apple.com/join/AYVtbvfc](https://testflight.apple.com/join/AYVtbvfc) | Y | 2024-11-18 |
 | Microsoft Designer beta | [https://testflight.apple.com/join/KsuaylTZ](https://testflight.apple.com/join/KsuaylTZ) | Y | 2024-10-17 |
 | Microsoft Dynamics 365 | [https://testflight.apple.com/join/ocBZp14V](https://testflight.apple.com/join/ocBZp14V) | N | 2024-12-14 |
-| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2025-04-22 |
+| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2025-04-23 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | Y | 2023-04-28 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2025-04-09 |
@@ -750,7 +750,7 @@ If you wanna fork this repo, please reading [this(ZH-CN)](./GITHUB_ACTION.md#4-�
 | Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | N | 2024-07-23 |
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | N | 2022-12-04 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2023-06-22 |
-| QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | F | 2025-04-06 |
+| QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | Y | 2025-04-23 |
 | Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | Y | 2024-10-19 |
 | flomo浮墨 | [https://testflight.apple.com/join/Ioh7cC6o](https://testflight.apple.com/join/Ioh7cC6o) | N | 2024-02-29 |
 | iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | F | 2025-03-16 |

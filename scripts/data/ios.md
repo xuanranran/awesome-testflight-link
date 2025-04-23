@@ -316,7 +316,7 @@
 | Microsoft Defender: Security | [https://testflight.apple.com/join/AYVtbvfc](https://testflight.apple.com/join/AYVtbvfc) | Y | 2024-11-18 |
 | Microsoft Designer beta | [https://testflight.apple.com/join/KsuaylTZ](https://testflight.apple.com/join/KsuaylTZ) | Y | 2024-10-17 |
 | Microsoft Dynamics 365 | [https://testflight.apple.com/join/ocBZp14V](https://testflight.apple.com/join/ocBZp14V) | N | 2024-12-14 |
-| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2025-04-22 |
+| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2025-04-23 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | Y | 2023-04-28 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2025-04-09 |
