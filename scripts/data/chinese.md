@@ -12,11 +12,11 @@
 | 酷狗概念版 | [https://testflight.apple.com/join/IOgbaxds](https://testflight.apple.com/join/IOgbaxds) | Y | 2025-03-29 |
 | 抖音 | [https://testflight.apple.com/join/ZILJgZhU](https://testflight.apple.com/join/ZILJgZhU) | Y | 2025-04-21 |
 | iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | F | 2025-03-16 |
-| 哔哩哔哩 | [https://testflight.apple.com/join/K4pM1kHu](https://testflight.apple.com/join/K4pM1kHu) | F | 2025-04-17 |
+| 哔哩哔哩 | [https://testflight.apple.com/join/K4pM1kHu](https://testflight.apple.com/join/K4pM1kHu) | F | 2025-04-30 |
 | 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | F | 2025-03-13 |
 | 百度贴吧 | [https://testflight.apple.com/join/GgBqXAqm](https://testflight.apple.com/join/GgBqXAqm) | F | 2025-01-22 |
-| 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | F | 2025-04-18 |
-| QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | F | 2025-04-23 |
+| 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | F | 2025-04-30 |
+| QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | F | 2025-04-06 |
 | 比亚迪 | [https://testflight.apple.com/join/ae77GeWM](https://testflight.apple.com/join/ae77GeWM) | F | 2025-04-04 |
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | N | 2022-12-04 |
 | 中关村在线 | [https://testflight.apple.com/join/0wbi7WuC](https://testflight.apple.com/join/0wbi7WuC) | N | 2022-04-06 |
@@ -51,4 +51,3 @@
 | 程序员做饭指南 | [https://testflight.apple.com/join/976Esk4W](https://testflight.apple.com/join/976Esk4W) | N | 2022-06-23 |
 | 熊猫吃短信 - 垃圾短信过滤 beta | [https://testflight.apple.com/join/PUlWiCNO](https://testflight.apple.com/join/PUlWiCNO) | N | 2022-12-01 |
 | flomo浮墨 | [https://testflight.apple.com/join/Ioh7cC6o](https://testflight.apple.com/join/Ioh7cC6o) | N | 2024-02-29 |
-| 泼辣修图出品视频编辑应用 24fps | [https://testflight.apple.com/join/aY3y9aOM](https://testflight.apple.com/join/aY3y9aOM) | D | 2025-04-17 |
