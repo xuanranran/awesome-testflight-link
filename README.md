@@ -72,7 +72,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-10-13 |
 | A2IPNS | [https://testflight.apple.com/join/cbUVu5XI](https://testflight.apple.com/join/cbUVu5XI) | N | 2023-08-13 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2022-10-13 |
-| AdGuard  — adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | F | 2025-08-02 |
+| AdGuard  — adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | Y | 2025-08-18 |
 | AdGuard VPN | [https://testflight.apple.com/join/fZRiD1zt](https://testflight.apple.com/join/fZRiD1zt) | Y | 2025-05-30 |
 | Adobe Acrobat Reader: Edit PDF | [https://testflight.apple.com/join/8XhFnQlp](https://testflight.apple.com/join/8XhFnQlp) | Y | 2024-11-18 |
 | Aerivo | [https://testflight.apple.com/join/NXxMcB4Y](https://testflight.apple.com/join/NXxMcB4Y) | N | 2022-10-13 |
@@ -220,10 +220,10 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | FRITZ!App Fon | [https://testflight.apple.com/join/SGGCxyRp](https://testflight.apple.com/join/SGGCxyRp) | Y | 2025-08-16 |
 | FRITZ!App Smart Home | [https://testflight.apple.com/join/kzVJhIg1](https://testflight.apple.com/join/kzVJhIg1) | Y | 2024-08-21 |
 | FRITZ!App TV | [https://testflight.apple.com/join/Zl2czQO2](https://testflight.apple.com/join/Zl2czQO2) | N | 2025-07-12 |
-| FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | Y | 2025-08-14 |
+| FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2025-08-18 |
 | Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | Y | 2025-07-26 |
 | Facebook Light | [https://testflight.apple.com/join/UqEC1ibq](https://testflight.apple.com/join/UqEC1ibq) | N | 2022-10-13 |
-| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | F | 2025-08-15 |
+| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | Y | 2025-08-18 |
 | FanFiction.Net | [https://testflight.apple.com/join/NLrhkf2U](https://testflight.apple.com/join/NLrhkf2U) | N | 2022-10-13 |
 | Fast Camera | [https://testflight.apple.com/join/haPQdDs9](https://testflight.apple.com/join/haPQdDs9) | N | 2025-03-17 |
 | Fedicat | [https://testflight.apple.com/join/b6GatWTY](https://testflight.apple.com/join/b6GatWTY) | Y | 2024-10-27 |
@@ -364,7 +364,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | MEGA | [https://testflight.apple.com/join/4x1P5Tnx](https://testflight.apple.com/join/4x1P5Tnx) | N | 2025-02-21 |
 | MFC Deck | [https://testflight.apple.com/join/Qusn9Bkt](https://testflight.apple.com/join/Qusn9Bkt) | N | 2022-10-13 |
 | MK播放器 | [https://testflight.apple.com/join/qUEu2p3L](https://testflight.apple.com/join/qUEu2p3L) | N | 2022-10-13 |
-| MSN (Start) | [https://testflight.apple.com/join/jOahtut6](https://testflight.apple.com/join/jOahtut6) | F | 2025-08-13 |
+| MSN (Start) | [https://testflight.apple.com/join/jOahtut6](https://testflight.apple.com/join/jOahtut6) | Y | 2025-08-18 |
 | Mammoth: for Mastodon | [https://testflight.apple.com/join/66c1wW8y](https://testflight.apple.com/join/66c1wW8y) | N | 2023-04-20 |
 | Map Pilot for DJI | [https://testflight.apple.com/join/FWOdp61T](https://testflight.apple.com/join/FWOdp61T) | N | 2022-10-13 |
 | MasjidPal | [https://testflight.apple.com/join/pglWN65b](https://testflight.apple.com/join/pglWN65b) | N | 2022-10-13 |
@@ -753,7 +753,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | 希沃白板 | [https://testflight.apple.com/join/d6MQLpKY](https://testflight.apple.com/join/d6MQLpKY) | Y | 2023-12-07 |
 | 搜狗输入法 | [https://testflight.apple.com/join/lSZdpEPH](https://testflight.apple.com/join/lSZdpEPH) | Y | 2025-07-12 |
 | 网易 Filmly | [https://testflight.apple.com/join/sIj5iOoj](https://testflight.apple.com/join/sIj5iOoj) | Y | 2025-03-01 |
-| 腾讯视频HD | [https://testflight.apple.com/join/9JaSzwSN](https://testflight.apple.com/join/9JaSzwSN) | F | 2025-06-06 |
+| 腾讯视频HD | [https://testflight.apple.com/join/9JaSzwSN](https://testflight.apple.com/join/9JaSzwSN) | Y | 2025-08-18 |
 | 酷我音乐 | [https://testflight.apple.com/join/XWYSZMaS](https://testflight.apple.com/join/XWYSZMaS) | Y | 2025-06-26 |
 
 
@@ -775,7 +775,7 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 | Locus | [https://testflight.apple.com/join/0trOIdJj](https://testflight.apple.com/join/0trOIdJj) | N | 2022-12-20 |
 | MLBB Beta | [https://testflight.apple.com/join/yYjKTTlT](https://testflight.apple.com/join/yYjKTTlT) | F | 2025-07-06 |
 | Minecraft Preview | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | F | 2025-08-02 |
-| Minecraft: Education Edition beta | [https://testflight.apple.com/join/sBDlEXYr](https://testflight.apple.com/join/sBDlEXYr) | Y | 2025-05-28 |
+| Minecraft: Education Edition beta | [https://testflight.apple.com/join/sBDlEXYr](https://testflight.apple.com/join/sBDlEXYr) | F | 2025-08-18 |
 | Royal Commando | [https://testflight.apple.com/join/Dc1K5L3N](https://testflight.apple.com/join/Dc1K5L3N) | N | 2022-12-26 |
 | Snackroach | [https://testflight.apple.com/join/0j5e7uc0](https://testflight.apple.com/join/0j5e7uc0) | N | 2023-09-30 |
 | Stick War 3 | [https://testflight.apple.com/join/eUx3WxVj](https://testflight.apple.com/join/eUx3WxVj) | D | 2025-04-05 |
