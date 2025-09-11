@@ -10,7 +10,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | 1.1.1.1: Faster Internet beta | [https://testflight.apple.com/join/Sl7m9yyz](https://testflight.apple.com/join/Sl7m9yyz) | N | 2023-11-27 |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2025-08-15 |
 | 1Password - Password Manager | [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) | N | 2023-04-28 |
-| 1Password - Password Manager beta | [https://testflight.apple.com/join/fzDLkIVK](https://testflight.apple.com/join/fzDLkIVK) | Y | 2025-09-10 |
+| 1Password - Password Manager beta | [https://testflight.apple.com/join/fzDLkIVK](https://testflight.apple.com/join/fzDLkIVK) | F | 2025-09-11 |
 | 1TouchAssist | [https://testflight.apple.com/join/oYw0jTD6](https://testflight.apple.com/join/oYw0jTD6) | N | 2022-10-13 |
 | 2Do - Todo List, Tasks & Notes | [https://testflight.apple.com/join/McBV96Wi](https://testflight.apple.com/join/McBV96Wi) | N | 2022-10-13 |
 | 9GAG: Best LOL Pics & GIFs | [https://testflight.apple.com/join/S2q4mD2b](https://testflight.apple.com/join/S2q4mD2b) | N | 2022-10-13 |
@@ -270,7 +270,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Jira Server by Atlassian | [https://testflight.apple.com/join/6JbjYbSY](https://testflight.apple.com/join/6JbjYbSY) | Y | 2025-08-15 |
 | Jobamax | [https://testflight.apple.com/join/Lw2oQr4I](https://testflight.apple.com/join/Lw2oQr4I) | N | 2022-10-11 |
 | Juno Rocks | [https://testflight.apple.com/join/Tiz07eKj](https://testflight.apple.com/join/Tiz07eKj) | N | 2022-10-11 |
-| Just Timers | [https://testflight.apple.com/join/pyzrz0oT](https://testflight.apple.com/join/pyzrz0oT) | F | 2025-07-21 |
+| Just Timers | [https://testflight.apple.com/join/pyzrz0oT](https://testflight.apple.com/join/pyzrz0oT) | Y | 2025-09-11 |
 | Jyotish Computer | [https://testflight.apple.com/join/pietJpfN](https://testflight.apple.com/join/pietJpfN) | N | 2022-10-13 |
 | K Music Player 3 Ultimate | [https://testflight.apple.com/join/61zjD0e6](https://testflight.apple.com/join/61zjD0e6) | N | 2022-10-11 |
 | KARMA: Social Network For Good | [https://testflight.apple.com/join/lpnVgcmV](https://testflight.apple.com/join/lpnVgcmV) | N | 2022-10-10 |
@@ -324,12 +324,12 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Microsoft Defender: Security | [https://testflight.apple.com/join/AYVtbvfc](https://testflight.apple.com/join/AYVtbvfc) | Y | 2024-11-18 |
 | Microsoft Designer beta | [https://testflight.apple.com/join/KsuaylTZ](https://testflight.apple.com/join/KsuaylTZ) | N | 2025-09-03 |
 | Microsoft Dynamics 365 | [https://testflight.apple.com/join/ocBZp14V](https://testflight.apple.com/join/ocBZp14V) | N | 2024-12-14 |
-| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2025-09-10 |
+| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2025-09-11 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | F | 2025-08-31 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2025-08-25 |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2025-08-30 |
-| Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2025-09-07 |
+| Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | Y | 2025-09-11 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2025-08-01 |
 | Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | Y | 2024-06-01 |
 | Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | Y | 2025-09-10 |
