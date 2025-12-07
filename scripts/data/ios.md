@@ -168,7 +168,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | FRITZ!App WLAN | [https://testflight.apple.com/join/vbfCKamq](https://testflight.apple.com/join/vbfCKamq) | F | 2025-11-21 |
 | Facebook | [https://testflight.apple.com/join/C1a3MRG4](https://testflight.apple.com/join/C1a3MRG4) | F | 2025-12-01 |
 | Facebook Light | [https://testflight.apple.com/join/UqEC1ibq](https://testflight.apple.com/join/UqEC1ibq) | N | 2022-10-13 |
-| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | F | 2025-11-17 |
+| Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | Y | 2025-12-07 |
 | FanFiction.Net | [https://testflight.apple.com/join/NLrhkf2U](https://testflight.apple.com/join/NLrhkf2U) | N | 2022-10-13 |
 | Fast Camera | [https://testflight.apple.com/join/haPQdDs9](https://testflight.apple.com/join/haPQdDs9) | N | 2025-03-17 |
 | Fedicat | [https://testflight.apple.com/join/b6GatWTY](https://testflight.apple.com/join/b6GatWTY) | Y | 2024-10-27 |
@@ -407,7 +407,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Outbank–360° Banking | [https://testflight.apple.com/join/ZnLxusWe](https://testflight.apple.com/join/ZnLxusWe) | N | 2022-10-11 |
 | Outcast for Watch | [https://testflight.apple.com/join/NFhBJlx3](https://testflight.apple.com/join/NFhBJlx3) | N | 2022-10-13 |
 | Overcast | [https://testflight.apple.com/join/ua0oicPc](https://testflight.apple.com/join/ua0oicPc) | N | 2022-10-13 |
-| Overcast beta | [https://testflight.apple.com/join/37azzGPG](https://testflight.apple.com/join/37azzGPG) | F | 2025-11-30 |
+| Overcast beta | [https://testflight.apple.com/join/37azzGPG](https://testflight.apple.com/join/37azzGPG) | Y | 2025-12-07 |
 | Owto | [https://testflight.apple.com/join/a4jRO20r](https://testflight.apple.com/join/a4jRO20r) | N | 2022-10-10 |
 | PDF Expert: PDF Editor | [https://testflight.apple.com/join/UE75wprO](https://testflight.apple.com/join/UE75wprO) | N | 2025-05-30 |
 | PDF Viewer Pro by PSPDFKit | [https://testflight.apple.com/join/6IMUtZ8n](https://testflight.apple.com/join/6IMUtZ8n) | Y | 2024-08-15 |
@@ -432,7 +432,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Plant Identifier & Care | [https://testflight.apple.com/join/vYqAc3Lf](https://testflight.apple.com/join/vYqAc3Lf) | N | 2024-11-17 |
 | PlayMe-Social Competitions | [https://testflight.apple.com/join/qd3PcztN](https://testflight.apple.com/join/qd3PcztN) | N | 2022-10-11 |
 | Playerly | [https://testflight.apple.com/join/8TOnyruA](https://testflight.apple.com/join/8TOnyruA) | N | 2022-10-13 |
-| Plex | [https://testflight.apple.com/join/MY6JTzix](https://testflight.apple.com/join/MY6JTzix) | Y | 2025-12-06 |
+| Plex | [https://testflight.apple.com/join/MY6JTzix](https://testflight.apple.com/join/MY6JTzix) | F | 2025-12-07 |
 | Pocketflix-Vertical Films | [https://testflight.apple.com/join/JrFLzCvU](https://testflight.apple.com/join/JrFLzCvU) | N | 2022-10-13 |
 | Pockity | [https://testflight.apple.com/join/4qfWwXvP](https://testflight.apple.com/join/4qfWwXvP) | F | 2025-10-16 |
 | PokeRater | [https://testflight.apple.com/join/lbhsX2dY](https://testflight.apple.com/join/lbhsX2dY) | N | 2022-10-13 |
@@ -522,7 +522,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) | N | 2022-10-13 |
 | Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | Y | 2022-10-13 |
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) | N | 2023-10-16 |
-| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | F | 2025-12-03 |
+| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | Y | 2025-12-07 |
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | N | 2023-11-02 |
 | Social Dummy | [https://testflight.apple.com/join/lQu46sXI](https://testflight.apple.com/join/lQu46sXI) | N | 2022-10-11 |
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) | N | 2022-10-13 |
