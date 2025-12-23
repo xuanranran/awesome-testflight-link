@@ -17,7 +17,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-10-13 |
 | A2IPNS | [https://testflight.apple.com/join/cbUVu5XI](https://testflight.apple.com/join/cbUVu5XI) | N | 2023-08-13 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2022-10-13 |
-| AdGuard  — adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | F | 2025-12-17 |
+| AdGuard  — adblock&privacy beta | [https://testflight.apple.com/join/PMfu4nmW](https://testflight.apple.com/join/PMfu4nmW) | Y | 2025-12-23 |
 | AdGuard VPN | [https://testflight.apple.com/join/fZRiD1zt](https://testflight.apple.com/join/fZRiD1zt) | Y | 2025-05-30 |
 | Adobe Acrobat Reader: Edit PDF | [https://testflight.apple.com/join/8XhFnQlp](https://testflight.apple.com/join/8XhFnQlp) | Y | 2024-11-18 |
 | Aerivo | [https://testflight.apple.com/join/NXxMcB4Y](https://testflight.apple.com/join/NXxMcB4Y) | N | 2022-10-13 |
@@ -80,7 +80,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Calendars 5 by Readdle | [https://testflight.apple.com/join/tC44BniC](https://testflight.apple.com/join/tC44BniC) | N | 2024-09-17 |
 | CapCut - Video Editor | [https://testflight.apple.com/join/Gu9kI6ky](https://testflight.apple.com/join/Gu9kI6ky) | D | 2025-06-25 |
 | Capsule-Podcast Player | [https://testflight.apple.com/join/xsWM17VW](https://testflight.apple.com/join/xsWM17VW) | N | 2022-10-13 |
-| CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | Y | 2025-12-21 |
+| CardioBot - Heart Rate Monitor | [https://testflight.apple.com/join/H82FVVt6](https://testflight.apple.com/join/H82FVVt6) | F | 2025-12-23 |
 | Cards-Business Card Scanner | [https://testflight.apple.com/join/iuqvxbc1](https://testflight.apple.com/join/iuqvxbc1) | N | 2022-10-13 |
 | Cash App | [https://testflight.apple.com/join/An0RiOFF](https://testflight.apple.com/join/An0RiOFF) | F | 2025-11-18 |
 | Catch Benefits | [https://testflight.apple.com/join/lignIX4A](https://testflight.apple.com/join/lignIX4A) | N | 2022-10-13 |
@@ -205,7 +205,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | GE Tracker-OSRS Flipping | [https://testflight.apple.com/join/6pXqBFre](https://testflight.apple.com/join/6pXqBFre) | N | 2023-11-09 |
 | GIFwrapped | [https://testflight.apple.com/join/mmJ9mS6M](https://testflight.apple.com/join/mmJ9mS6M) | N | 2022-10-13 |
 | GROM - Get Rid of Minions | [https://testflight.apple.com/join/5k0dF9zs](https://testflight.apple.com/join/5k0dF9zs) | N | 2022-10-13 |
-| Gaming for Peace-GAP | [https://testflight.apple.com/join/tJu81Sch](https://testflight.apple.com/join/tJu81Sch) | N | 2025-12-20 |
+| Gaming for Peace-GAP | [https://testflight.apple.com/join/tJu81Sch](https://testflight.apple.com/join/tJu81Sch) | Y | 2025-12-23 |
 | Garadget 2 | [https://testflight.apple.com/join/fdJQnYQ2](https://testflight.apple.com/join/fdJQnYQ2) | N | 2022-10-13 |
 | GawkBox | [https://testflight.apple.com/join/miOgmpZa](https://testflight.apple.com/join/miOgmpZa) | N | 2022-10-13 |
 | Gboard – Google Keyboard | [https://testflight.apple.com/join/DY9eVh5z](https://testflight.apple.com/join/DY9eVh5z) | N | 2023-01-12 |
@@ -220,7 +220,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2024-10-16 |
 | GreenLit Audiobook Player | [https://testflight.apple.com/join/NQYMABMU](https://testflight.apple.com/join/NQYMABMU) | N | 2022-10-13 |
 | Grid: Create Pointillist Art | [https://testflight.apple.com/join/PyXo0ZW7](https://testflight.apple.com/join/PyXo0ZW7) | N | 2022-10-13 |
-| Grindr - Gay Dating & Chat | [https://testflight.apple.com/join/eO265vw7](https://testflight.apple.com/join/eO265vw7) | F | 2025-12-21 |
+| Grindr - Gay Dating & Chat | [https://testflight.apple.com/join/eO265vw7](https://testflight.apple.com/join/eO265vw7) | Y | 2025-12-23 |
 | Grocery-Smart Grocery List | [https://testflight.apple.com/join/v29eXz9t](https://testflight.apple.com/join/v29eXz9t) | N | 2025-12-14 |
 | GroupMe | [https://testflight.apple.com/join/6CcTotfX](https://testflight.apple.com/join/6CcTotfX) | Y | 2022-10-09 |
 | Grow | [https://testflight.apple.com/join/h3xyVeII](https://testflight.apple.com/join/h3xyVeII) | N | 2022-10-13 |
@@ -300,7 +300,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | LittleBeat | [https://testflight.apple.com/join/U5GSqwEP](https://testflight.apple.com/join/U5GSqwEP) | N | 2024-02-26 |
 | Live Traffic Map and Weather | [https://testflight.apple.com/join/qKnsQiRL](https://testflight.apple.com/join/qKnsQiRL) | N | 2022-10-11 |
 | Local Japan | [https://testflight.apple.com/join/0V62RIGt](https://testflight.apple.com/join/0V62RIGt) | N | 2022-10-13 |
-| Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | Y | 2025-12-21 |
+| Lock Launcher beta | [https://testflight.apple.com/join/clHxFnLa](https://testflight.apple.com/join/clHxFnLa) | F | 2025-12-23 |
 | Lock Screen Contact Widgets beta | [https://testflight.apple.com/join/uyGm1uJr](https://testflight.apple.com/join/uyGm1uJr) | N | 2022-12-05 |
 | Loiter | [https://testflight.apple.com/join/KRf4e4A8](https://testflight.apple.com/join/KRf4e4A8) | N | 2022-10-13 |
 | Loon | [https://testflight.apple.com/join/23LA2tmX](https://testflight.apple.com/join/23LA2tmX) | N | 2022-10-13 |
@@ -464,7 +464,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | RainViewer: Live Weather Radar | [https://testflight.apple.com/join/OZ1B4sTS](https://testflight.apple.com/join/OZ1B4sTS) | Y | 2025-01-23 |
 | Rapchat | [https://testflight.apple.com/join/JjPmPBK5](https://testflight.apple.com/join/JjPmPBK5) | N | 2022-10-13 |
 | Rave – Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | D | 2025-08-14 |
-| Reading List - Book Tracker | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) | N | 2025-09-10 |
+| Reading List - Book Tracker | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) | F | 2025-12-23 |
 | Readwise Reader beta | [https://testflight.apple.com/join/NSeQo22d](https://testflight.apple.com/join/NSeQo22d) | Y | 2023-07-30 |
 | Really Bad Chess | [https://testflight.apple.com/join/aOhasBMk](https://testflight.apple.com/join/aOhasBMk) | N | 2022-10-11 |
 | Recall-Secure Photo Storage | [https://testflight.apple.com/join/YuXc2asc](https://testflight.apple.com/join/YuXc2asc) | N | 2022-10-11 |
@@ -522,7 +522,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) | N | 2022-10-13 |
 | Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | Y | 2022-10-13 |
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) | N | 2023-10-16 |
-| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | Y | 2025-12-20 |
+| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | F | 2025-12-23 |
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | N | 2023-11-02 |
 | Social Dummy | [https://testflight.apple.com/join/lQu46sXI](https://testflight.apple.com/join/lQu46sXI) | N | 2022-10-11 |
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) | N | 2022-10-13 |
@@ -631,7 +631,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | WeatherKit | [https://testflight.apple.com/join/kAvJV2Gp](https://testflight.apple.com/join/kAvJV2Gp) | N | 2022-10-11 |
 | WhaleBlue | [https://testflight.apple.com/join/jtBRluFe](https://testflight.apple.com/join/jtBRluFe) | N | 2022-10-13 |
 | WhaleBlue | [https://testflight.apple.com/join/udovXNsR](https://testflight.apple.com/join/udovXNsR) | N | 2022-10-13 |
-| WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | F | 2025-08-12 |
+| WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | Y | 2025-12-23 |
 | WhatsApp Messenger | [https://testflight.apple.com/join/s4rTJVPb](https://testflight.apple.com/join/s4rTJVPb) | N | 2023-10-12 |
 | Widget Wizard | [https://testflight.apple.com/join/mQX0NKjP](https://testflight.apple.com/join/mQX0NKjP) | N | 2023-08-24 |
 | Wikiloc Outdoor Navigation GPS | [https://testflight.apple.com/join/P93jBr23](https://testflight.apple.com/join/P93jBr23) | N | 2022-10-13 |
