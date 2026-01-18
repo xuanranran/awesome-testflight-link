@@ -142,7 +142,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Cats & Dogs | [https://testflight.apple.com/join/rGDBZ3hs](https://testflight.apple.com/join/rGDBZ3hs) | N | 2022-10-11 |
 | Cats In Space! Galactic Mice | [https://testflight.apple.com/join/b3anlTqH](https://testflight.apple.com/join/b3anlTqH) | N | 2022-10-13 |
 | Champion of the Fields | [https://testflight.apple.com/join/6KLsLMFG](https://testflight.apple.com/join/6KLsLMFG) | N | 2022-10-13 |
-| Chanyan | [https://testflight.apple.com/join/ky5bRwMY](https://testflight.apple.com/join/ky5bRwMY) | N | 2026-01-17 |
+| Chanyan | [https://testflight.apple.com/join/ky5bRwMY](https://testflight.apple.com/join/ky5bRwMY) | Y | 2026-01-18 |
 | CharMap | [https://testflight.apple.com/join/TL68k0Sp](https://testflight.apple.com/join/TL68k0Sp) | N | 2025-06-28 |
 | ChargeDesk | [https://testflight.apple.com/join/CO4pDu2I](https://testflight.apple.com/join/CO4pDu2I) | N | 2022-10-13 |
 | ChastiKey | [https://testflight.apple.com/join/0pHRZcVD](https://testflight.apple.com/join/0pHRZcVD) | N | 2022-10-13 |
@@ -275,7 +275,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2024-10-16 |
 | GreenLit Audiobook Player | [https://testflight.apple.com/join/NQYMABMU](https://testflight.apple.com/join/NQYMABMU) | N | 2022-10-13 |
 | Grid: Create Pointillist Art | [https://testflight.apple.com/join/PyXo0ZW7](https://testflight.apple.com/join/PyXo0ZW7) | N | 2022-10-13 |
-| Grindr - Gay Dating & Chat | [https://testflight.apple.com/join/eO265vw7](https://testflight.apple.com/join/eO265vw7) | F | 2026-01-05 |
+| Grindr - Gay Dating & Chat | [https://testflight.apple.com/join/eO265vw7](https://testflight.apple.com/join/eO265vw7) | Y | 2026-01-18 |
 | Grocery-Smart Grocery List | [https://testflight.apple.com/join/v29eXz9t](https://testflight.apple.com/join/v29eXz9t) | N | 2025-12-14 |
 | GroupMe | [https://testflight.apple.com/join/6CcTotfX](https://testflight.apple.com/join/6CcTotfX) | Y | 2022-10-09 |
 | Grow | [https://testflight.apple.com/join/h3xyVeII](https://testflight.apple.com/join/h3xyVeII) | N | 2022-10-13 |
@@ -325,11 +325,11 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Jira Server by Atlassian | [https://testflight.apple.com/join/6JbjYbSY](https://testflight.apple.com/join/6JbjYbSY) | N | 2025-11-07 |
 | Jobamax | [https://testflight.apple.com/join/Lw2oQr4I](https://testflight.apple.com/join/Lw2oQr4I) | N | 2022-10-11 |
 | Juno Rocks | [https://testflight.apple.com/join/Tiz07eKj](https://testflight.apple.com/join/Tiz07eKj) | N | 2022-10-11 |
-| Just Timers | [https://testflight.apple.com/join/pyzrz0oT](https://testflight.apple.com/join/pyzrz0oT) | F | 2026-01-16 |
+| Just Timers | [https://testflight.apple.com/join/pyzrz0oT](https://testflight.apple.com/join/pyzrz0oT) | Y | 2026-01-18 |
 | Jyotish Computer | [https://testflight.apple.com/join/pietJpfN](https://testflight.apple.com/join/pietJpfN) | N | 2022-10-13 |
 | K Music Player 3 Ultimate | [https://testflight.apple.com/join/61zjD0e6](https://testflight.apple.com/join/61zjD0e6) | N | 2022-10-11 |
 | KARMA: Social Network For Good | [https://testflight.apple.com/join/lpnVgcmV](https://testflight.apple.com/join/lpnVgcmV) | N | 2022-10-10 |
-| KDE Connect | [https://testflight.apple.com/join/vxCluwBF](https://testflight.apple.com/join/vxCluwBF) | F | 2026-01-08 |
+| KDE Connect | [https://testflight.apple.com/join/vxCluwBF](https://testflight.apple.com/join/vxCluwBF) | N | 2026-01-18 |
 | Kaspersky Security Cloud | [https://testflight.apple.com/join/yst7K78b](https://testflight.apple.com/join/yst7K78b) | N | 2023-12-20 |
 | Katunizer | [https://testflight.apple.com/join/cw8X7LeO](https://testflight.apple.com/join/cw8X7LeO) | N | 2023-04-09 |
 | Keka | [https://testflight.apple.com/join/gPYINGCJ](https://testflight.apple.com/join/gPYINGCJ) | F | 2026-01-08 |
@@ -523,7 +523,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Readwise Reader beta | [https://testflight.apple.com/join/NSeQo22d](https://testflight.apple.com/join/NSeQo22d) | Y | 2023-07-30 |
 | Really Bad Chess | [https://testflight.apple.com/join/aOhasBMk](https://testflight.apple.com/join/aOhasBMk) | N | 2022-10-11 |
 | Recall-Secure Photo Storage | [https://testflight.apple.com/join/YuXc2asc](https://testflight.apple.com/join/YuXc2asc) | N | 2022-10-11 |
-| Reddit | [https://testflight.apple.com/join/b9jMyOWt](https://testflight.apple.com/join/b9jMyOWt) | Y | 2026-01-16 |
+| Reddit | [https://testflight.apple.com/join/b9jMyOWt](https://testflight.apple.com/join/b9jMyOWt) | F | 2026-01-18 |
 | RetailBox | [https://testflight.apple.com/join/nNT4O8vg](https://testflight.apple.com/join/nNT4O8vg) | N | 2022-10-13 |
 | Retro 2 | [https://testflight.apple.com/join/IjV5V0zL](https://testflight.apple.com/join/IjV5V0zL) | N | 2024-10-03 |
 | Retro Flight | [https://testflight.apple.com/join/NnU8jU3m](https://testflight.apple.com/join/NnU8jU3m) | N | 2022-10-13 |
@@ -577,7 +577,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Slide for Reddit | [https://testflight.apple.com/join/M7ChDyZx](https://testflight.apple.com/join/M7ChDyZx) | N | 2022-10-13 |
 | Smart Post: Schedule Media | [https://testflight.apple.com/join/a0zXMXbA](https://testflight.apple.com/join/a0zXMXbA) | Y | 2022-10-13 |
 | Smooz Browser | [https://testflight.apple.com/join/53f970RC](https://testflight.apple.com/join/53f970RC) | N | 2023-10-16 |
-| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | Y | 2026-01-17 |
+| Snapchat | [https://testflight.apple.com/join/p7hGbZUR](https://testflight.apple.com/join/p7hGbZUR) | F | 2026-01-18 |
 | Snapthread | [https://testflight.apple.com/join/nOZ0d7n7](https://testflight.apple.com/join/nOZ0d7n7) | N | 2023-11-02 |
 | Social Dummy | [https://testflight.apple.com/join/lQu46sXI](https://testflight.apple.com/join/lQu46sXI) | N | 2022-10-11 |
 | SocialBuzz-Social Network | [https://testflight.apple.com/join/HEZbtISZ](https://testflight.apple.com/join/HEZbtISZ) | N | 2022-10-13 |
@@ -749,7 +749,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | waipu.tv | [https://testflight.apple.com/join/l72L1OK3](https://testflight.apple.com/join/l72L1OK3) | F | 2025-12-18 |
 | wallabag 2 | [https://testflight.apple.com/join/73Pvd1wL](https://testflight.apple.com/join/73Pvd1wL) | N | 2023-12-02 |
 | yoto: you only talk once | [https://testflight.apple.com/join/NevhdobC](https://testflight.apple.com/join/NevhdobC) | N | 2022-10-11 |
-| 和风天气 - 可视化天气 beta | [https://testflight.apple.com/join/9KR0Xx7E](https://testflight.apple.com/join/9KR0Xx7E) | Y | 2026-01-16 |
+| 和风天气 - 可视化天气 beta | [https://testflight.apple.com/join/9KR0Xx7E](https://testflight.apple.com/join/9KR0Xx7E) | F | 2026-01-18 |
 | 希沃白板 | [https://testflight.apple.com/join/d6MQLpKY](https://testflight.apple.com/join/d6MQLpKY) | Y | 2023-12-07 |
 | 搜狗输入法 | [https://testflight.apple.com/join/lSZdpEPH](https://testflight.apple.com/join/lSZdpEPH) | Y | 2025-09-16 |
 | 网易 Filmly | [https://testflight.apple.com/join/sIj5iOoj](https://testflight.apple.com/join/sIj5iOoj) | Y | 2025-03-01 |
