@@ -214,7 +214,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | GitHub HyperList | [https://testflight.apple.com/join/qfPzqQM0](https://testflight.apple.com/join/qfPzqQM0) | N | 2024-08-08 |
 | Gizer | [https://testflight.apple.com/join/TR0BJdqU](https://testflight.apple.com/join/TR0BJdqU) | N | 2022-10-13 |
 | Go Map!! | [https://testflight.apple.com/join/T96F9wYq](https://testflight.apple.com/join/T96F9wYq) | Y | 2025-01-07 |
-| Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) | Y | 2026-04-08 |
+| Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) | F | 2026-04-09 |
 | Gospel Living | [https://testflight.apple.com/join/hTa12wLY](https://testflight.apple.com/join/hTa12wLY) | N | 2022-10-11 |
 | Grape for GitHub | [https://testflight.apple.com/join/xajXBrHT](https://testflight.apple.com/join/xajXBrHT) | N | 2022-10-13 |
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2024-10-16 |
@@ -324,12 +324,12 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Microsoft Defender: Security | [https://testflight.apple.com/join/AYVtbvfc](https://testflight.apple.com/join/AYVtbvfc) | N | 2026-01-22 |
 | Microsoft Designer beta | [https://testflight.apple.com/join/KsuaylTZ](https://testflight.apple.com/join/KsuaylTZ) | N | 2025-09-03 |
 | Microsoft Dynamics 365 | [https://testflight.apple.com/join/ocBZp14V](https://testflight.apple.com/join/ocBZp14V) | N | 2024-12-14 |
-| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2026-03-31 |
+| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2026-04-09 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | N | 2025-12-12 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2026-03-29 |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2026-04-01 |
-| Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2026-04-02 |
+| Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | Y | 2026-04-09 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2026-03-21 |
 | Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | F | 2026-03-31 |
 | Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | F | 2026-03-28 |

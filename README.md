@@ -43,7 +43,7 @@ _✅ These 4 apps are currently accepting new testers! Click the links to join._
 | Code Piper | [https://testflight.apple.com/join/7raK338Y](https://testflight.apple.com/join/7raK338Y) | N | 2025-05-07 |
 | Dark Noise | [https://testflight.apple.com/join/kpKtyijY](https://testflight.apple.com/join/kpKtyijY) | N | 2025-12-10 |
 | Drafts | [https://testflight.apple.com/join/GhPcOrwa](https://testflight.apple.com/join/GhPcOrwa) | Y | 2025-01-29 |
-| MenubarX | [https://testflight.apple.com/join/Tqr03a4h](https://testflight.apple.com/join/Tqr03a4h) | Y | 2026-04-08 |
+| MenubarX | [https://testflight.apple.com/join/Tqr03a4h](https://testflight.apple.com/join/Tqr03a4h) | F | 2026-04-09 |
 | Parcel | [https://testflight.apple.com/join/GfswMZn4](https://testflight.apple.com/join/GfswMZn4) | N | 2025-12-10 |
 | Ride Wait Times | [https://testflight.apple.com/join/yQNmMRwB](https://testflight.apple.com/join/yQNmMRwB) | Y | 2023-02-11 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
@@ -269,7 +269,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | GitHub HyperList | [https://testflight.apple.com/join/qfPzqQM0](https://testflight.apple.com/join/qfPzqQM0) | N | 2024-08-08 |
 | Gizer | [https://testflight.apple.com/join/TR0BJdqU](https://testflight.apple.com/join/TR0BJdqU) | N | 2022-10-13 |
 | Go Map!! | [https://testflight.apple.com/join/T96F9wYq](https://testflight.apple.com/join/T96F9wYq) | Y | 2025-01-07 |
-| Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) | Y | 2026-04-08 |
+| Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) | F | 2026-04-09 |
 | Gospel Living | [https://testflight.apple.com/join/hTa12wLY](https://testflight.apple.com/join/hTa12wLY) | N | 2022-10-11 |
 | Grape for GitHub | [https://testflight.apple.com/join/xajXBrHT](https://testflight.apple.com/join/xajXBrHT) | N | 2022-10-13 |
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2024-10-16 |
@@ -379,12 +379,12 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Microsoft Defender: Security | [https://testflight.apple.com/join/AYVtbvfc](https://testflight.apple.com/join/AYVtbvfc) | N | 2026-01-22 |
 | Microsoft Designer beta | [https://testflight.apple.com/join/KsuaylTZ](https://testflight.apple.com/join/KsuaylTZ) | N | 2025-09-03 |
 | Microsoft Dynamics 365 | [https://testflight.apple.com/join/ocBZp14V](https://testflight.apple.com/join/ocBZp14V) | N | 2024-12-14 |
-| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | F | 2026-03-31 |
+| Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | Y | 2026-04-09 |
 | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | N | 2025-12-12 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/w1GVbaMO](https://testflight.apple.com/join/w1GVbaMO) | N | 2024-02-07 |
 | Microsoft Loop beta | [https://testflight.apple.com/join/KNyadcIZ](https://testflight.apple.com/join/KNyadcIZ) | F | 2026-03-29 |
 | Microsoft Office | [https://testflight.apple.com/join/eHAKJBtM](https://testflight.apple.com/join/eHAKJBtM) | F | 2026-04-01 |
-| Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | F | 2026-04-02 |
+| Microsoft OneDrive | [https://testflight.apple.com/join/LtgPLzrQ](https://testflight.apple.com/join/LtgPLzrQ) | Y | 2026-04-09 |
 | Microsoft Outlook | [https://testflight.apple.com/join/QkU4VS1s](https://testflight.apple.com/join/QkU4VS1s) | F | 2026-03-21 |
 | Microsoft PowerPoint | [https://testflight.apple.com/join/a9Ef0N3g](https://testflight.apple.com/join/a9Ef0N3g) | F | 2026-03-31 |
 | Microsoft Remote Desktop Beta | [https://testflight.apple.com/join/vkLIflUJ](https://testflight.apple.com/join/vkLIflUJ) | F | 2026-03-28 |
@@ -793,7 +793,7 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | N | 2024-07-23 |
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | N | 2022-12-04 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2023-06-22 |
-| QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | F | 2026-03-20 |
+| QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | Y | 2026-04-09 |
 | Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | Y | 2024-10-19 |
 | flomo浮墨 | [https://testflight.apple.com/join/Ioh7cC6o](https://testflight.apple.com/join/Ioh7cC6o) | N | 2024-02-29 |
 | iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | F | 2025-11-24 |
