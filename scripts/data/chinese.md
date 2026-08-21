@@ -24,7 +24,7 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | 寒梅 | [https://testflight.apple.com/join/7U4YKpl2](https://testflight.apple.com/join/7U4YKpl2) | Y | 2026-06-18 |
 | 小記 | [https://testflight.apple.com/join/aqoXcoG3](https://testflight.apple.com/join/aqoXcoG3) | Y | 2026-06-18 |
 | 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | F | 2026-07-15 |
-| 微信键盘 beta | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | Y | 2026-08-20 |
+| 微信键盘 beta | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | F | 2026-08-21 |
 | 我的世界-网易 | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | Y | 2026-03-17 |
 | 抖音 | [https://testflight.apple.com/join/ZILJgZhU](https://testflight.apple.com/join/ZILJgZhU) | Y | 2026-04-02 |
 | 捷径社区 | [https://testflight.apple.com/join/LeuKqKYX](https://testflight.apple.com/join/LeuKqKYX) | Y | 2026-06-18 |
@@ -53,6 +53,6 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | 豌豆多多 | [https://testflight.apple.com/join/gbcprIXM](https://testflight.apple.com/join/gbcprIXM) | Y | 2026-06-18 |
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) | Y | 2026-06-18 |
 | 酷狗概念版 | [https://testflight.apple.com/join/IOgbaxds](https://testflight.apple.com/join/IOgbaxds) | Y | 2026-01-01 |
-| 酷狗音乐 | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | F | 2026-08-20 |
+| 酷狗音乐 | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | Y | 2026-08-21 |
 | 阿里云盘 | [https://testflight.apple.com/join/yi8oG8bi](https://testflight.apple.com/join/yi8oG8bi) | Y | 2026-06-18 |
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) | Y | 2026-06-18 |

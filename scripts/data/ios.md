@@ -138,7 +138,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Desk Clock (World Clock) | [https://testflight.apple.com/join/19gnJJSh](https://testflight.apple.com/join/19gnJJSh) | Y | 2026-06-18 |
 | Deuce - Tennis Scorekeeper | [https://testflight.apple.com/join/hmgmpkX1](https://testflight.apple.com/join/hmgmpkX1) | Y | 2026-06-18 |
 | DevSwitch | [https://testflight.apple.com/join/qYu3ptEV](https://testflight.apple.com/join/qYu3ptEV) | Y | 2026-06-18 |
-| Discord | [https://testflight.apple.com/join/gdE4pRzI](https://testflight.apple.com/join/gdE4pRzI) | Y | 2026-08-20 |
+| Discord | [https://testflight.apple.com/join/gdE4pRzI](https://testflight.apple.com/join/gdE4pRzI) | F | 2026-08-21 |
 | Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | Y | 2025-07-26 |
 | Dog Scanner | [https://testflight.apple.com/join/OOrSaq4J](https://testflight.apple.com/join/OOrSaq4J) | Y | 2026-06-18 |
 | Drift Music | [https://testflight.apple.com/join/gYn8g7oj](https://testflight.apple.com/join/gYn8g7oj) | Y | 2026-06-18 |
@@ -214,7 +214,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | GitHub HyperList | [https://testflight.apple.com/join/qfPzqQM0](https://testflight.apple.com/join/qfPzqQM0) | Y | 2026-06-18 |
 | Gizer | [https://testflight.apple.com/join/TR0BJdqU](https://testflight.apple.com/join/TR0BJdqU) | Y | 2026-06-18 |
 | Go Map!! | [https://testflight.apple.com/join/T96F9wYq](https://testflight.apple.com/join/T96F9wYq) | Y | 2025-01-07 |
-| Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) | F | 2026-08-15 |
+| Google Chrome | [https://testflight.apple.com/join/LPQmtkUs](https://testflight.apple.com/join/LPQmtkUs) | Y | 2026-08-21 |
 | Gospel Living | [https://testflight.apple.com/join/hTa12wLY](https://testflight.apple.com/join/hTa12wLY) | D | 2026-05-19 |
 | Grape for GitHub | [https://testflight.apple.com/join/xajXBrHT](https://testflight.apple.com/join/xajXBrHT) | Y | 2026-06-18 |
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2024-10-16 |
@@ -350,7 +350,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Moye beta | [https://testflight.apple.com/join/5VemL4Sm](https://testflight.apple.com/join/5VemL4Sm) | Y | 2026-06-18 |
 | Mume VPN | [https://testflight.apple.com/join/wgXjVEh8](https://testflight.apple.com/join/wgXjVEh8) | Y | 2026-06-18 |
 | MuseoTrack | [https://testflight.apple.com/join/jR1MsqSt](https://testflight.apple.com/join/jR1MsqSt) | Y | 2026-06-18 |
-| Music Harbor | [https://testflight.apple.com/join/uaazZoIc](https://testflight.apple.com/join/uaazZoIc) | Y | 2026-08-20 |
+| Music Harbor | [https://testflight.apple.com/join/uaazZoIc](https://testflight.apple.com/join/uaazZoIc) | F | 2026-08-21 |
 | Music Year in Review | [https://testflight.apple.com/join/EIEOkKJV](https://testflight.apple.com/join/EIEOkKJV) | Y | 2026-06-18 |
 | Musicoin | [https://testflight.apple.com/join/VUvMtXzG](https://testflight.apple.com/join/VUvMtXzG) | Y | 2026-06-18 |
 | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | F | 2026-08-15 |
@@ -427,7 +427,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Picsew v3.0 | [https://testflight.apple.com/join/p68up4N3](https://testflight.apple.com/join/p68up4N3) | D | 2025-09-03 |
 | Pigeon | [https://testflight.apple.com/join/fQQrtZMS](https://testflight.apple.com/join/fQQrtZMS) | Y | 2026-06-18 |
 | Pillow | [https://testflight.apple.com/join/apGxTqB1](https://testflight.apple.com/join/apGxTqB1) | D | 2026-03-07 |
-| Pinterest beta | [https://testflight.apple.com/join/ffIBkq35](https://testflight.apple.com/join/ffIBkq35) | Y | 2026-08-20 |
+| Pinterest beta | [https://testflight.apple.com/join/ffIBkq35](https://testflight.apple.com/join/ffIBkq35) | F | 2026-08-21 |
 | Planet Runners | [https://testflight.apple.com/join/4zAP9kBW](https://testflight.apple.com/join/4zAP9kBW) | Y | 2026-06-18 |
 | Plant Identifier & Care | [https://testflight.apple.com/join/vYqAc3Lf](https://testflight.apple.com/join/vYqAc3Lf) | Y | 2026-06-18 |
 | PlayMe-Social Competitions | [https://testflight.apple.com/join/qd3PcztN](https://testflight.apple.com/join/qd3PcztN) | Y | 2026-06-18 |
@@ -674,7 +674,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | i2Ray-V2Ray Proxy Manager | [https://testflight.apple.com/join/K57owAmM](https://testflight.apple.com/join/K57owAmM) | Y | 2026-06-18 |
 | iCertifi | [https://testflight.apple.com/join/hnyqQHH0](https://testflight.apple.com/join/hnyqQHH0) | Y | 2026-06-18 |
 | iRime输入法-小鹤双拼五笔郑码输入法 beta | [https://testflight.apple.com/join/tmKoQL3t](https://testflight.apple.com/join/tmKoQL3t) | Y | 2026-06-18 |
-| iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | Y | 2026-08-20 |
+| iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2026-08-21 |
 | infltr - Infinite Filters | [https://testflight.apple.com/join/In6e3GcJ](https://testflight.apple.com/join/In6e3GcJ) | Y | 2026-08-19 |
 | kakeibo | [https://testflight.apple.com/join/B614PCKN](https://testflight.apple.com/join/B614PCKN) | Y | 2026-06-18 |
 | my ToDo | [https://testflight.apple.com/join/V4zOhaAT](https://testflight.apple.com/join/V4zOhaAT) | Y | 2026-06-18 |
