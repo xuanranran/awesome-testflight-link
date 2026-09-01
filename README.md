@@ -65,7 +65,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | 1.1.1.1: Faster Internet beta | [https://testflight.apple.com/join/Sl7m9yyz](https://testflight.apple.com/join/Sl7m9yyz) | Y | 2026-06-18 |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2026-05-04 |
 | 1Password - Password Manager | [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) | Y | 2026-06-18 |
-| 1Password - Password Manager beta | [https://testflight.apple.com/join/fzDLkIVK](https://testflight.apple.com/join/fzDLkIVK) | F | 2026-07-17 |
+| 1Password - Password Manager beta | [https://testflight.apple.com/join/fzDLkIVK](https://testflight.apple.com/join/fzDLkIVK) | Y | 2026-09-01 |
 | 1TouchAssist | [https://testflight.apple.com/join/oYw0jTD6](https://testflight.apple.com/join/oYw0jTD6) | Y | 2026-06-18 |
 | 2Do - Todo List, Tasks & Notes | [https://testflight.apple.com/join/McBV96Wi](https://testflight.apple.com/join/McBV96Wi) | Y | 2026-06-18 |
 | 9GAG: Best LOL Pics & GIFs | [https://testflight.apple.com/join/S2q4mD2b](https://testflight.apple.com/join/S2q4mD2b) | Y | 2026-06-18 |
@@ -519,7 +519,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | RainViewer: Live Weather Radar | [https://testflight.apple.com/join/OZ1B4sTS](https://testflight.apple.com/join/OZ1B4sTS) | Y | 2026-06-18 |
 | Rapchat | [https://testflight.apple.com/join/JjPmPBK5](https://testflight.apple.com/join/JjPmPBK5) | D | 2026-03-08 |
 | Rave – Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | D | 2025-08-14 |
-| Reading List - Book Tracker | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) | F | 2026-07-24 |
+| Reading List - Book Tracker | [https://testflight.apple.com/join/kBS5mVao](https://testflight.apple.com/join/kBS5mVao) | Y | 2026-09-01 |
 | Readwise Reader beta | [https://testflight.apple.com/join/NSeQo22d](https://testflight.apple.com/join/NSeQo22d) | Y | 2023-07-30 |
 | Really Bad Chess | [https://testflight.apple.com/join/aOhasBMk](https://testflight.apple.com/join/aOhasBMk) | Y | 2026-06-18 |
 | Recall-Secure Photo Storage | [https://testflight.apple.com/join/YuXc2asc](https://testflight.apple.com/join/YuXc2asc) | Y | 2026-06-18 |
@@ -564,7 +564,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Sheeping Around CCG | [https://testflight.apple.com/join/a4CATJ0K](https://testflight.apple.com/join/a4CATJ0K) | Y | 2026-06-18 |
 | Shu - Magic File Viewer beta | [https://testflight.apple.com/join/4nss4sdk](https://testflight.apple.com/join/4nss4sdk) | Y | 2026-06-18 |
 | SideCoach | [https://testflight.apple.com/join/nT69xbrU](https://testflight.apple.com/join/nT69xbrU) | Y | 2026-06-18 |
-| Signal - Private Messenger | [https://testflight.apple.com/join/8FHtd1Jq](https://testflight.apple.com/join/8FHtd1Jq) | Y | 2026-08-31 |
+| Signal - Private Messenger | [https://testflight.apple.com/join/8FHtd1Jq](https://testflight.apple.com/join/8FHtd1Jq) | F | 2026-09-01 |
 | Simple Tasks 2 | [https://testflight.apple.com/join/I5ZvVKyh](https://testflight.apple.com/join/I5ZvVKyh) | Y | 2026-06-18 |
 | SimpleTix Box Office | [https://testflight.apple.com/join/zyByZSX8](https://testflight.apple.com/join/zyByZSX8) | Y | 2026-06-18 |
 | Sins Raid | [https://testflight.apple.com/join/4W3Kfb7j](https://testflight.apple.com/join/4W3Kfb7j) | Y | 2026-06-18 |
@@ -666,7 +666,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | Unwrap - Learn Swift | [https://testflight.apple.com/join/ROxI9xSR](https://testflight.apple.com/join/ROxI9xSR) | D | 2025-06-18 |
 | Up – File transfer & sharing | [https://testflight.apple.com/join/pgni34xJ](https://testflight.apple.com/join/pgni34xJ) | Y | 2026-06-18 |
 | V2LF | [https://testflight.apple.com/join/cvx4MQuh](https://testflight.apple.com/join/cvx4MQuh) | Y | 2026-06-18 |
-| VFeed | [https://testflight.apple.com/join/ZdC5U0fR](https://testflight.apple.com/join/ZdC5U0fR) | F | 2026-08-25 |
+| VFeed | [https://testflight.apple.com/join/ZdC5U0fR](https://testflight.apple.com/join/ZdC5U0fR) | Y | 2026-09-01 |
 | VLC for Mobile | [https://testflight.apple.com/join/bbyXP6Lx](https://testflight.apple.com/join/bbyXP6Lx) | Y | 2026-06-18 |
 | VPN Tracker | [https://testflight.apple.com/join/hoTrTqiZ](https://testflight.apple.com/join/hoTrTqiZ) | Y | 2026-06-18 |
 | Vantage Calendar | [https://testflight.apple.com/join/chE3dS7n](https://testflight.apple.com/join/chE3dS7n) | Y | 2026-06-18 |
@@ -686,7 +686,7 @@ _✅ These 140 apps are currently accepting new testers! Click the links to join
 | WeatherKit | [https://testflight.apple.com/join/kAvJV2Gp](https://testflight.apple.com/join/kAvJV2Gp) | Y | 2026-06-18 |
 | WhaleBlue | [https://testflight.apple.com/join/jtBRluFe](https://testflight.apple.com/join/jtBRluFe) | Y | 2026-06-18 |
 | WhaleBlue | [https://testflight.apple.com/join/udovXNsR](https://testflight.apple.com/join/udovXNsR) | Y | 2026-06-18 |
-| WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | F | 2026-03-23 |
+| WhatsApp Business | [https://testflight.apple.com/join/oscYikr0](https://testflight.apple.com/join/oscYikr0) | Y | 2026-09-01 |
 | WhatsApp Messenger | [https://testflight.apple.com/join/s4rTJVPb](https://testflight.apple.com/join/s4rTJVPb) | Y | 2026-06-18 |
 | Widget Wizard | [https://testflight.apple.com/join/mQX0NKjP](https://testflight.apple.com/join/mQX0NKjP) | Y | 2026-06-18 |
 | Wikiloc Outdoor Navigation GPS | [https://testflight.apple.com/join/P93jBr23](https://testflight.apple.com/join/P93jBr23) | Y | 2026-06-18 |
@@ -774,7 +774,7 @@ _✅ These 1 apps are currently accepting new testers! Click the links to join._
 | Jrni | [https://testflight.apple.com/join/Z1TMhVJT](https://testflight.apple.com/join/Z1TMhVJT) | Y | 2026-06-18 |
 | Locus | [https://testflight.apple.com/join/0trOIdJj](https://testflight.apple.com/join/0trOIdJj) | Y | 2026-06-18 |
 | MLBB Beta | [https://testflight.apple.com/join/yYjKTTlT](https://testflight.apple.com/join/yYjKTTlT) | F | 2026-05-05 |
-| Minecraft Preview | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | F | 2026-08-09 |
+| Minecraft Preview | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | Y | 2026-09-01 |
 | Minecraft: Education Edition beta | [https://testflight.apple.com/join/sBDlEXYr](https://testflight.apple.com/join/sBDlEXYr) | F | 2026-08-29 |
 | Royal Commando | [https://testflight.apple.com/join/Dc1K5L3N](https://testflight.apple.com/join/Dc1K5L3N) | Y | 2026-06-18 |
 | Snackroach | [https://testflight.apple.com/join/0j5e7uc0](https://testflight.apple.com/join/0j5e7uc0) | Y | 2026-06-18 |
@@ -794,7 +794,7 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | Y | 2026-06-18 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2023-06-22 |
 | QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | Y | 2026-05-25 |
-| Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | Y | 2026-08-31 |
+| Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | F | 2026-09-01 |
 | flomo浮墨 | [https://testflight.apple.com/join/Ioh7cC6o](https://testflight.apple.com/join/Ioh7cC6o) | Y | 2026-06-18 |
 | iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | F | 2026-08-29 |
 | 中关村在线 | [https://testflight.apple.com/join/0wbi7WuC](https://testflight.apple.com/join/0wbi7WuC) | Y | 2026-06-18 |
