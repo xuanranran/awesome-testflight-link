@@ -10,7 +10,7 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | Y | 2026-06-18 |
 | Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2023-06-22 |
 | QQ beta | [https://testflight.apple.com/join/R5FNGUl3](https://testflight.apple.com/join/R5FNGUl3) | Y | 2026-05-25 |
-| Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | F | 2026-09-30 |
+| Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | Y | 2026-10-07 |
 | flomo浮墨 | [https://testflight.apple.com/join/Ioh7cC6o](https://testflight.apple.com/join/Ioh7cC6o) | Y | 2026-06-18 |
 | iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | F | 2026-10-02 |
 | 中关村在线 | [https://testflight.apple.com/join/0wbi7WuC](https://testflight.apple.com/join/0wbi7WuC) | Y | 2026-06-18 |
@@ -41,7 +41,7 @@ _✅ These 10 apps are currently accepting new testers! Click the links to join.
 | 百度网盘 HD | [https://testflight.apple.com/join/A0HM2av9](https://testflight.apple.com/join/A0HM2av9) | Y | 2026-06-18 |
 | 百度网盘青春版 | [https://testflight.apple.com/join/fJgR5Y2O](https://testflight.apple.com/join/fJgR5Y2O) | Y | 2026-06-18 |
 | 百度贴吧 | [https://testflight.apple.com/join/GgBqXAqm](https://testflight.apple.com/join/GgBqXAqm) | F | 2026-08-12 |
-| 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | Y | 2026-10-06 |
+| 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | F | 2026-10-07 |
 | 石头阅读 | [https://testflight.apple.com/join/0x2bROvq](https://testflight.apple.com/join/0x2bROvq) | Y | 2026-06-18 |
 | 票夹 | [https://testflight.apple.com/join/sPJTq8Ff](https://testflight.apple.com/join/sPJTq8Ff) | Y | 2026-06-18 |
 | 程序员做饭指南 | [https://testflight.apple.com/join/976Esk4W](https://testflight.apple.com/join/976Esk4W) | Y | 2026-06-18 |
