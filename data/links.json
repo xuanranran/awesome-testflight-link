@@ -3446,7 +3446,7 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
@@ -6945,7 +6945,7 @@
     },
     "XkGKTA71": {
       "app_name": "小红书 – 世界杯直播",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
@@ -7820,12 +7820,12 @@
     },
     "Dtc4ZCFu": {
       "app_name": "Accretion: The Vein",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-26"
+      "last_modify": "2026-10-29"
     },
     "YD6CKdCj": {
       "app_name": "Ralphy",
