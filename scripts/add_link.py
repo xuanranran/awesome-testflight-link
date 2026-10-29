@@ -1,167 +1,144 @@
 #!/usr/bin/python
-'''
-Author       : tom-snow
-Date         : 2022-03-16 19:32:32
-LastEditTime : 2022-04-24 17:27:07
-LastEditors  : tom-snow
-Description  : 
-FilePath     : /awesome-testflight-link/scripts/add_link.py
-'''
-
-import sqlite3
+"""
+Add TestFlight links with manual platform input.
+Optimized for GitHub Actions environment.
+"""
 import asyncio
-import aiohttp
-import re, os, sys, datetime, random
-
-BASE_URL = "https://testflight.apple.com/"
-
-TABLE_MAP = {
-    "macos": "./data/macos.md",
-    "ios": "./data/ios.md",
-    "ios_game": "./data/ios_game.md",
-    "chinese": "./data/chinese.md",
-    "signup": "./data/signup.md"
-}
-README_TEMPLATE_FILE = "./data/README.template"
-TODAY = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
-
-FULL_PATTERN = re.compile(r"版本的测试员已满|This beta is full")
-NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn't accepting any new testers right now")
-# 除了不接受新测试员外，其他的（已满/可加入）可以得到应用名
-APP_NAME_PATTERN = re.compile(r"Join the (.+) beta - TestFlight - Apple")
-APP_NAME_CH_PATTERN = re.compile(r"加入 Beta 版“(.+)” - TestFlight - Apple")
-
-def renew_doc(data_file, table):
-    # header
-    markdown = []
-    with open(data_file, 'r') as f:
-        lines = f.readlines()
-        for line in lines:
-            columns = [ column.strip() for column in line.split("|") ]
-            markdown.append(line)
-            if len(columns) > 2 and re.match(r"^:?-+:?$", columns[1]):
-                break
-    # 
-    conn = sqlite3.connect('../db/sqlite3.db')
-    cur = conn.cursor()
-    res = cur.execute(f"SELECT app_name, testflight_link, status, last_modify FROM {table} ORDER BY app_name;")
-    for row in res:
-        app_name, testflight_link, status, last_modify = row
-        testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
-        markdown.append(f"| {app_name} | {testflight_link} | {status} | {last_modify} |\n")
-    conn.close()
-    # 
-    with open(data_file, 'w') as f:
-        lines = f.writelines(markdown)
-
-def renew_readme():
-    template = ""
-    with open(README_TEMPLATE_FILE, 'r') as f:
-        template = f.read()
-    macos = ""
-    with open(TABLE_MAP["macos"], 'r') as f:
-        macos = f.read()
-    ios = ""
-    with open(TABLE_MAP["ios"], 'r') as f:
-        ios = f.read()
-    ios_game = ""
-    with open(TABLE_MAP["ios_game"], 'r') as f:
-        ios_game = f.read()
-    chinese = ""
-    with open(TABLE_MAP["chinese"], 'r') as f:
-        chinese = f.read()
-    signup = ""
-    with open(TABLE_MAP["signup"], 'r') as f:
-        signup = f.read()
-    readme = template.format(macos=macos, ios=ios, ios_game=ios_game, chinese=chinese, signup=signup)
-    with open("../README.md", 'w') as f:
-        f.write(readme)
-
-async def check_status(session, key, retry=10):
-    status = 'N'
-    app_name = "None"
-    for i in range(retry):
-        try:
-            async with session.get(f'/join/{key}') as resp:
-                resp.raise_for_status()
-                resp_html = await resp.text()
-                if NO_PATTERN.search(resp_html) is not None:
-                    status = 'N'
-                elif FULL_PATTERN.search(resp_html) is not None:
-                    status = 'F'
-                else:
-                    status = 'Y'
-                app_name_search = APP_NAME_PATTERN.search(resp_html)
-                app_name_ch_search = APP_NAME_CH_PATTERN.search(resp_html)
-                if app_name_search is not None:
-                    app_name = app_name_search.group(1)
-                elif app_name_ch_search is not None:
-                    app_name = app_name_ch_search.group(1)
-                return (key, status, app_name)
-        except aiohttp.ClientResponseError as e:
-            if resp.status == 404:
-                return (key, 'D', app_name)
-            rand = round(random.random(), 3)
-            print(f"[warn] {e}, wait {i*(rand+1)+1} s. Retry({i}/{retry})")
-            await asyncio.sleep(i*(rand+1)+1)
-    print(f"[warn] Key ({key}) have max retries, return default value!")
-    return (key, status, app_name)
+import httpx
+import re
+import sys
+from utils import (
+    BASE_URL,
+    MAX_CONNECTIONS,
+    MAX_KEEPALIVE_CONNECTIONS,
+    TODAY,
+    check_testflight_status,
+    parse_platforms_from_string,
+    renew_readme,
+    load_links,
+    save_links,
+)
+import os
 
 async def main():
-    testflight_link = sys.argv[1]
-    table = sys.argv[2].lower()
-    app_name = sys.argv[3]
-    last_modify = TODAY
-    
-    link_id_match = re.search(r"^https://testflight.apple.com/join/(.*)$", testflight_link, re.I)
-    if link_id_match is not None:
+    # Parse arguments - link and platforms (comma-separated)
+    args = sys.argv[1:]
+
+    if len(args) < 1:
+        print("Usage: python add_link.py <link> <platforms>")
+        print()
+        print("Examples:")
+        print("  python3 add_link.py AbcXYZ ios")
+        print("  python3 add_link.py AbcXYZ ios,ipados,macos")
+        print()
+        print("Note: Platforms must be provided (comma-separated, e.g. ios,ipados,macos,tvos)")
+        print("      App name is auto-extracted from the TestFlight page.")
+        sys.exit(1)
+
+    testflight_link = args[0]
+    # App name is always auto-extracted from the TestFlight page (no manual input).
+    app_name = None
+
+    # Extract link ID from URL
+    link_id_match = re.search(r"join/([A-Za-z0-9]+)$", testflight_link, re.I)
+    if link_id_match:
         testflight_link = link_id_match.group(1)
-    else:
-        print(f"[Error] Invalid testflight_link. Exit...")
-        exit(1)
+    elif not re.fullmatch(r"[A-Za-z0-9]+", testflight_link):
+        print(f"[error] Invalid TestFlight link: {testflight_link}")
+        print("        Expected a join URL or a bare alphanumeric join code.")
+        sys.exit(1)
 
-    if table not in TABLE_MAP or table == "signup":
-        print(f"[Error] Invalid table. Exit...")
-        exit(1)
-
-    if app_name is None or app_name == "":
-        app_name = "None"
-    
-    # 稳妥起见限制同时 5 个同 host 的请求
-    conn = aiohttp.TCPConnector(limit=10, limit_per_host=5)
+    # Fetch page info
+    limits = httpx.Limits(
+        max_connections=MAX_CONNECTIONS,
+        max_keepalive_connections=MAX_KEEPALIVE_CONNECTIONS,
+    )
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2357.130 Safari/537.36 qblink wegame.exe QBCore/3.70.66.400 QQBrowser/9.0.2524.400"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
-    async with aiohttp.ClientSession(BASE_URL, connector=conn, headers=headers) as session:
-        coroutines_list = []
-        coroutines_list.append(check_status(session, testflight_link))
-        result = await asyncio.gather(*coroutines_list)
-        for row in result:
-            if app_name.capitalize() == "None":
-                app_name = row[2]
-            status = row[1]
 
-    # 插入数据库
-    conn = sqlite3.connect('../db/sqlite3.db')
-    cur = conn.cursor()    
-    sql = f"INSERT INTO {table} (app_name, testflight_link, status, last_modify) VALUES(?, ?, ?, ?);"
-    data = (app_name, testflight_link, status, last_modify)
-    try:
-        cur.execute(sql, data)
-    except sqlite3.IntegrityError as e:
-        print(f"[sqlite3.IntegrityError - 1] {e}")
-        print(f"[sqlite3.IntegrityError - 2] Table: {table}; Data: {data}")
-    except Exception as e:
-        raise e
-    conn.commit()
-    print(f"[info] Writed {conn.total_changes} row(s) into table: {table}")
-    conn.close()
+    async with httpx.AsyncClient(base_url=BASE_URL, limits=limits, headers=headers, follow_redirects=True) as session:
+        _, status, fetched_name, html_content = await check_testflight_status(
+            session,
+            testflight_link,
+            retry=10,
+            include_html=True,
+        )
 
-    renew_doc(TABLE_MAP[table], table)
+        # Always use the name extracted from the page (fallback only if extraction failed).
+        app_name = fetched_name if fetched_name and fetched_name != "None" else None
+
+        # Determine platforms: prefer PLATFORMS env, then CLI arg
+        platforms_from_env = None
+        env_val = os.getenv('PLATFORMS')
+        if env_val:
+            platforms_from_env = parse_platforms_from_string(env_val)
+
+        # CLI: second arg is platforms (comma separated)
+        cli_platforms = None
+        if len(args) >= 2:
+            cli_platforms = parse_platforms_from_string(args[1])
+
+        if cli_platforms:
+            tables = cli_platforms
+            print(f"[info] Using platforms from CLI arg: {', '.join(tables)}")
+        elif platforms_from_env:
+            tables = platforms_from_env
+            print(f"[info] Using platforms from PLATFORMS env: {', '.join(tables)}")
+        else:
+            print("[error] No platforms specified. Please provide platforms as the second argument or set PLATFORMS env.")
+            print("Usage: python add_link.py <link> <platforms_comma_separated>")
+            sys.exit(1)
+
+    # Fall back to a placeholder if the name could not be extracted.
+    if not app_name:
+        app_name = "Unknown"
+        print(f"[warn] Could not extract app name from TestFlight page, using '{app_name}'")
+
+    # Load and update data
+    links_data = load_links()
+    if "_links" not in links_data:
+        links_data["_links"] = {}
+
+    # Check if link already exists
+    link_info = links_data["_links"].get(testflight_link)
+
+    if link_info is None:
+        link_info = {
+            "app_name": app_name,
+            "status": status,
+            "tables": tables,
+            "last_modify": TODAY
+        }
+        action = "Added new link"
+    else:
+        old_platforms = link_info.get("tables", [])
+        link_info["app_name"] = app_name
+        link_info["status"] = status
+        link_info["tables"] = tables  # Replace with provided platforms
+        link_info["last_modify"] = TODAY
+
+        # Log platform changes if they differ
+        if set(old_platforms) != set(tables):
+            print(f"[info] Updated platforms for '{app_name}': {old_platforms} → {tables}")
+
+        action = "Updated existing link"
+
+    links_data["_links"][testflight_link] = link_info
+    save_links(links_data)
+    print(f"[info] {action} '{app_name}' with platforms: {', '.join(link_info['tables'])}")
+    # Emit the resolved app name on its own line so CI can use it for the commit message.
+    print(f"APP_NAME={app_name}")
+
+    # 直接生成 README
     renew_readme()
 
 if __name__ == "__main__":
-    os.chdir(sys.path[0])
-    
-    loop = asyncio.get_event_loop()
-    loop.run_until_complete(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print("\n[info] Interrupted by user")
+        sys.exit(0)
+    except Exception as e:
+        print(f"[error] {type(e).__name__}: {e}")
+        sys.exit(1)
