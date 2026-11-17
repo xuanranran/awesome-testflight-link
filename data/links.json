@@ -661,11 +661,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-17"
     },
     "K120Muoy": {
       "app_name": "Chirp for",
@@ -1349,11 +1349,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-17"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -2821,11 +2821,11 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-11-17"
     },
     "8SxXknzD": {
       "app_name": "ProtonMail - Encrypted Email",
@@ -3214,11 +3214,11 @@
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-16"
+      "last_modify": "2026-11-17"
     },
     "Zm4lMILC": {
       "app_name": "SIMO : MATLAB programming app",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-17"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4903,11 +4903,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-03"
+      "last_modify": "2026-11-17"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5521,11 +5521,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-17"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -5985,11 +5985,11 @@
     },
     "976Esk4W": {
       "app_name": "程序员做饭指南",
-      "status": "N",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-11-17"
     },
     "PUlWiCNO": {
       "app_name": "熊猫吃短信 - 垃圾短信过滤 beta",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-17"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6331,11 +6331,11 @@
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-08"
+      "last_modify": "2026-11-17"
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-17"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-06"
+      "last_modify": "2026-11-17"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-06"
+      "last_modify": "2026-11-17"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -6993,19 +6993,19 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01"
+      "last_modify": "2026-11-17"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14"
+      "last_modify": "2026-11-17"
     },
     "SqNPfdxq": {
       "app_name": "Swiftfin",
@@ -7231,12 +7231,12 @@
     },
     "EGSsGRn7": {
       "app_name": "CoMaps",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-17"
     },
     "MJYg86PA": {
       "app_name": "WhoWhom",
@@ -7927,11 +7927,11 @@
     },
     "mcMmeWBb": {
       "app_name": "Loopily: ADHD Routine Timer",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-14"
+      "last_modify": "2026-11-17"
     },
     "PY8GMkKa": {
       "app_name": "Booklook",
@@ -8023,7 +8023,7 @@
     },
     "jTWDHuZE": {
       "app_name": "Yattee",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
@@ -8031,7 +8031,7 @@
         "tvos",
         "visionos"
       ],
-      "last_modify": "2026-09-30"
+      "last_modify": "2026-11-17"
     },
     "P2WqdUYS": {
       "app_name": "Oxbit",
