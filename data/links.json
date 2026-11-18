@@ -197,11 +197,11 @@
     },
     "fZRiD1zt": {
       "app_name": "AdGuard VPN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-18"
     },
     "NXxMcB4Y": {
       "app_name": "Aerivo",
@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-03"
+      "last_modify": "2026-11-18"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -3214,11 +3214,11 @@
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-18"
     },
     "Zm4lMILC": {
       "app_name": "SIMO : MATLAB programming app",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-18"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-18"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4903,11 +4903,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-18"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-09"
+      "last_modify": "2026-11-18"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6857,19 +6857,19 @@
     },
     "i6TcrR2L": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-18"
     },
     "N1MkckuA": {
       "app_name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-18"
     },
     "nRiAaxNf": {
       "app_name": "翼支付",
@@ -6993,11 +6993,11 @@
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-18"
     },
     "TH2TrW13": {
       "app_name": "TikTok -Global Video Community",
@@ -7793,11 +7793,11 @@
     },
     "9GTuC9Ri": {
       "app_name": "微博",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13"
+      "last_modify": "2026-11-18"
     },
     "47XmGuKU": {
       "app_name": "Theta Wellness",
