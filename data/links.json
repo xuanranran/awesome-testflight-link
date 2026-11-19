@@ -197,11 +197,11 @@
     },
     "fZRiD1zt": {
       "app_name": "AdGuard VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-18"
+      "last_modify": "2026-11-19"
     },
     "NXxMcB4Y": {
       "app_name": "Aerivo",
@@ -1461,11 +1461,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12"
+      "last_modify": "2026-11-19"
     },
     "xajXBrHT": {
       "app_name": "Grape for GitHub",
@@ -2781,11 +2781,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-18"
+      "last_modify": "2026-11-19"
     },
     "JrFLzCvU": {
       "app_name": "Pocketflix-Vertical Films",
@@ -2821,11 +2821,11 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-19"
     },
     "8SxXknzD": {
       "app_name": "ProtonMail - Encrypted Email",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-10"
+      "last_modify": "2026-11-19"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3214,11 +3214,11 @@
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-18"
+      "last_modify": "2026-11-19"
     },
     "Zm4lMILC": {
       "app_name": "SIMO : MATLAB programming app",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-10"
+      "last_modify": "2026-11-19"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4903,11 +4903,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-18"
+      "last_modify": "2026-11-19"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-19"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-18"
+      "last_modify": "2026-11-19"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6049,11 +6049,11 @@
     },
     "ZILJgZhU": {
       "app_name": "抖音",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-02"
+      "last_modify": "2026-11-19"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
@@ -6145,11 +6145,11 @@
     },
     "Hm0miNz8": {
       "app_name": "抖音",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-02"
+      "last_modify": "2026-11-19"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6275,11 +6275,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-19"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6412,12 +6412,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy &amp; VPN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-15"
+      "last_modify": "2026-11-19"
     },
     "eUpweBZV": {
       "app_name": "CodeAgents Mobile",
@@ -6881,11 +6881,11 @@
     },
     "XplPxabZ": {
       "app_name": "米兔手表-可以打电话的手表",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-05"
+      "last_modify": "2026-11-19"
     },
     "zfzepr74": {
       "app_name": "深蓝汽车",
@@ -6921,11 +6921,11 @@
     },
     "sx61JrRC": {
       "app_name": "抖音",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04"
+      "last_modify": "2026-11-19"
     },
     "e86oEq6r": {
       "app_name": "微泰动态",
@@ -7351,12 +7351,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-16"
+      "last_modify": "2026-11-19"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
