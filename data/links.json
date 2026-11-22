@@ -2125,11 +2125,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-21"
+      "last_modify": "2026-11-22"
     },
     "JSq3UkAz": {
       "app_name": "Microsoft To-Do",
@@ -2885,12 +2885,12 @@
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-28"
+      "last_modify": "2026-11-22"
     },
     "B4BYAvTy": {
       "app_name": "Quiz Viajero",
@@ -4503,11 +4503,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-21"
+      "last_modify": "2026-11-22"
     },
     "F2vK7xo4": {
       "app_name": "Harbour - Docker manager beta",
@@ -5065,11 +5065,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14"
+      "last_modify": "2026-11-22"
     },
     "o85e2EHN": {
       "app_name": "Voqab - Vocabulary Training App",
@@ -5281,11 +5281,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-22"
     },
     "2NZLBFyb": {
       "app_name": "Monzo Bank - Mobile Banking",
@@ -5777,11 +5777,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20"
+      "last_modify": "2026-11-22"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -5873,11 +5873,11 @@
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-21"
+      "last_modify": "2026-11-22"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
@@ -6388,11 +6388,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-22"
     },
     "4GWAwNsU": {
       "app_name": "Focus – Productivity Timer",
@@ -8023,7 +8023,7 @@
     },
     "jTWDHuZE": {
       "app_name": "Yattee",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
@@ -8031,7 +8031,7 @@
         "tvos",
         "visionos"
       ],
-      "last_modify": "2026-11-17"
+      "last_modify": "2026-11-22"
     },
     "P2WqdUYS": {
       "app_name": "Oxbit",
