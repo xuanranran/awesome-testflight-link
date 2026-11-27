@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-26"
+      "last_modify": "2026-11-27"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -4007,11 +4007,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14"
+      "last_modify": "2026-11-27"
     },
     "wx9CLYdl": {
       "app_name": "Wall am I",
@@ -5881,11 +5881,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-15"
+      "last_modify": "2026-11-27"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-26"
+      "last_modify": "2026-11-27"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6153,11 +6153,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-24"
+      "last_modify": "2026-11-27"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
@@ -6323,11 +6323,11 @@
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-13"
+      "last_modify": "2026-11-27"
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
@@ -6985,11 +6985,11 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-11"
+      "last_modify": "2026-11-27"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
@@ -7351,12 +7351,12 @@
     },
     "YjeGMQBA": {
       "app_name": "Orca IDE",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-26"
+      "last_modify": "2026-11-27"
     },
     "TnB7zcye": {
       "app_name": "FlipTalk - Reverse Your Speech",
@@ -7893,12 +7893,12 @@
     },
     "eCSAAcQF": {
       "app_name": "Glimshelf",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-11-27"
     },
     "ze5Bhrkc": {
       "app_name": "Burden: Purchase Check",
